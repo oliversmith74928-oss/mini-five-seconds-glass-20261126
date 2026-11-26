@@ -2,9 +2,9 @@
 
 The one sentence a house cat would say in its own defence in the five seconds after knocking a glass off the table — no apology, no confession, just the case for the cat.
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![entry](https://make.fun/entry.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![reward](https://make.fun/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/oliversmith74928-oss/mini-five-seconds-glass-20261126/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/oliversmith74928-oss/mini-five-seconds-glass-20261126/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
 ## Entry
 
